@@ -3,13 +3,7 @@
 // function denoting the compiler, calling the lexer, 
 // parser, etc.
 //
-// <<YOUR NAME>>
-//
-// Original author:
-//   Prof. Joe Hummel
-//   U. of Illinois, Chicago
-//   CS 341, Spring 2022
-//
+
 
 
 //##################################################################
